@@ -49,4 +49,5 @@ public class RulesSwitchStatement {
                 System.out.println("Day 2");
         }
     }
-}}
+}
+
